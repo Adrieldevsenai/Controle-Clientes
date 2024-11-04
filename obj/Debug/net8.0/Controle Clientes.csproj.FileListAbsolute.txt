@@ -1,0 +1,14 @@
+C:\Users\Adriel\Desktop\Controle Clientes\bin\Debug\net8.0\Controle Clientes.exe
+C:\Users\Adriel\Desktop\Controle Clientes\bin\Debug\net8.0\Controle Clientes.deps.json
+C:\Users\Adriel\Desktop\Controle Clientes\bin\Debug\net8.0\Controle Clientes.runtimeconfig.json
+C:\Users\Adriel\Desktop\Controle Clientes\bin\Debug\net8.0\Controle Clientes.dll
+C:\Users\Adriel\Desktop\Controle Clientes\bin\Debug\net8.0\Controle Clientes.pdb
+C:\Users\Adriel\Desktop\Controle Clientes\obj\Debug\net8.0\Controle Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriel\Desktop\Controle Clientes\obj\Debug\net8.0\Controle Clientes.AssemblyInfoInputs.cache
+C:\Users\Adriel\Desktop\Controle Clientes\obj\Debug\net8.0\Controle Clientes.AssemblyInfo.cs
+C:\Users\Adriel\Desktop\Controle Clientes\obj\Debug\net8.0\Controle Clientes.csproj.CoreCompileInputs.cache
+C:\Users\Adriel\Desktop\Controle Clientes\obj\Debug\net8.0\Controle Clientes.dll
+C:\Users\Adriel\Desktop\Controle Clientes\obj\Debug\net8.0\refint\Controle Clientes.dll
+C:\Users\Adriel\Desktop\Controle Clientes\obj\Debug\net8.0\Controle Clientes.pdb
+C:\Users\Adriel\Desktop\Controle Clientes\obj\Debug\net8.0\Controle Clientes.genruntimeconfig.cache
+C:\Users\Adriel\Desktop\Controle Clientes\obj\Debug\net8.0\ref\Controle Clientes.dll
